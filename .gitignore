@@ -1,0 +1,6 @@
+build
+.idea
+.gradle
+ts-spring-app.iml
+ts-spring-app.ipr
+ts-spring-app.iws
